@@ -179,7 +179,6 @@ An entity relationship diagram (ERD), also known as an entity relationship model
 ### Importance of ERDs and Their Uses   
 Entity relationship diagrams provide a visual starting point for database design that can also be used to help determine information system requirements throughout an organization. After a relational database is rolled out, an ERD can still serve as a reference point, should any debugging or business process re-engineering be needed later.   
 
-![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/7b36b6dc-e1f0-4e2c-9afe-aff328c4ac43)
 
 ### TABLE HIERARCHY
 ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/99758df2-65ab-469d-bf5f-9e3cf2b6d5ae)
@@ -196,6 +195,29 @@ Entity relationship diagrams provide a visual starting point for database design
 
 ### dbo.Categories
 ![image](https://github.com/MervePolat977/Phishing-Attack/assets/75504698/aea20cbe-4c55-45cd-b9ff-6df3e9f6c319)
+
+### dbo.Interactions
+![image](https://github.com/MervePolat977/Phishing-Attack-With-MVC/assets/75504698/e82e0972-3582-497e-bf43-0479c4ebfc9e)
+
+### dbo.Pages
+![image](https://github.com/MervePolat977/Phishing-Attack-With-MVC/assets/75504698/c378a433-0b4d-40c4-9252-8db50710c648)
+
+### dbo.PhishingEmails
+![image](https://github.com/MervePolat977/Phishing-Attack-With-MVC/assets/75504698/1cb4482b-a720-46b1-ab1c-0865199f6963)
+
+### dbo.Recipients
+![image](https://github.com/MervePolat977/Phishing-Attack-With-MVC/assets/75504698/60aa3a79-00ca-45c5-9785-c5b90430bd09)
+
+### dbo.Templates
+![image](https://github.com/MervePolat977/Phishing-Attack-With-MVC/assets/75504698/d99c4ad6-1b80-4f64-b089-a31f11a03538)
+
+### dbo.Types
+![image](https://github.com/MervePolat977/Phishing-Attack-With-MVC/assets/75504698/c6f2dd67-55c3-4ae3-b14d-6f5122420745)
+
+
+
+
+
 
 
 
